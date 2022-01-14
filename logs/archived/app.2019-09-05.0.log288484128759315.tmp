@@ -1,0 +1,543 @@
+2019-09-05 00:09:31,853 INFO com.rg.runner.Runner [main] sample [T, R, I, M, G] 
+2019-09-05 16:29:27,713 INFO com.rg.runner.Runner [main] sample [C, J, O, L, G, P, V, X, B, O, R, T, H, E, Q, U] 
+2019-09-05 16:33:01,420 INFO com.rg.struct.impl.StreamSamplerImpl [main] reservoir of size 5 initialized
+2019-09-05 16:33:01,424 INFO com.rg.runner.Runner [main] sample [Y, D, I, T, N, R, L, O, B, H, C, E, Q, U] 
+2019-09-05 16:33:39,744 INFO com.rg.struct.impl.StreamSamplerImpl [main] reservoir of size 5 initialized
+2019-09-05 16:33:39,749 INFO com.rg.struct.impl.StreamSamplerImpl [main] item T received
+2019-09-05 16:33:39,749 INFO com.rg.struct.impl.StreamSamplerImpl [main] item H received
+2019-09-05 16:33:39,749 INFO com.rg.struct.impl.StreamSamplerImpl [main] item E received
+2019-09-05 16:33:39,749 INFO com.rg.struct.impl.StreamSamplerImpl [main] item Q received
+2019-09-05 16:33:39,749 INFO com.rg.struct.impl.StreamSamplerImpl [main] item U received
+2019-09-05 16:33:39,749 INFO com.rg.struct.impl.StreamSamplerImpl [main] item I received
+2019-09-05 16:33:39,750 INFO com.rg.struct.impl.StreamSamplerImpl [main] item C received
+2019-09-05 16:33:39,750 INFO com.rg.struct.impl.StreamSamplerImpl [main] item K received
+2019-09-05 16:33:39,750 INFO com.rg.struct.impl.StreamSamplerImpl [main] item B received
+2019-09-05 16:33:39,750 INFO com.rg.struct.impl.StreamSamplerImpl [main] item R received
+2019-09-05 16:33:39,750 INFO com.rg.struct.impl.StreamSamplerImpl [main] item O received
+2019-09-05 16:33:39,750 INFO com.rg.struct.impl.StreamSamplerImpl [main] item W received
+2019-09-05 16:33:39,750 INFO com.rg.struct.impl.StreamSamplerImpl [main] item N received
+2019-09-05 16:33:39,750 INFO com.rg.struct.impl.StreamSamplerImpl [main] item F received
+2019-09-05 16:33:39,750 INFO com.rg.struct.impl.StreamSamplerImpl [main] item O received
+2019-09-05 16:33:39,751 INFO com.rg.struct.impl.StreamSamplerImpl [main] item X received
+2019-09-05 16:33:39,751 INFO com.rg.struct.impl.StreamSamplerImpl [main] item J received
+2019-09-05 16:33:39,751 INFO com.rg.struct.impl.StreamSamplerImpl [main] item U received
+2019-09-05 16:33:39,751 INFO com.rg.struct.impl.StreamSamplerImpl [main] item M received
+2019-09-05 16:33:39,751 INFO com.rg.struct.impl.StreamSamplerImpl [main] item P received
+2019-09-05 16:33:39,751 INFO com.rg.struct.impl.StreamSamplerImpl [main] item S received
+2019-09-05 16:33:39,751 INFO com.rg.struct.impl.StreamSamplerImpl [main] item O received
+2019-09-05 16:33:39,751 INFO com.rg.struct.impl.StreamSamplerImpl [main] item V received
+2019-09-05 16:33:39,751 INFO com.rg.struct.impl.StreamSamplerImpl [main] item E received
+2019-09-05 16:33:39,751 INFO com.rg.struct.impl.StreamSamplerImpl [main] item R received
+2019-09-05 16:33:39,751 INFO com.rg.struct.impl.StreamSamplerImpl [main] item T received
+2019-09-05 16:33:39,752 INFO com.rg.struct.impl.StreamSamplerImpl [main] item H received
+2019-09-05 16:33:39,752 INFO com.rg.struct.impl.StreamSamplerImpl [main] item E received
+2019-09-05 16:33:39,752 INFO com.rg.struct.impl.StreamSamplerImpl [main] item L received
+2019-09-05 16:33:39,752 INFO com.rg.struct.impl.StreamSamplerImpl [main] item A received
+2019-09-05 16:33:39,752 INFO com.rg.struct.impl.StreamSamplerImpl [main] item Z received
+2019-09-05 16:33:39,752 INFO com.rg.struct.impl.StreamSamplerImpl [main] item Y received
+2019-09-05 16:33:39,752 INFO com.rg.struct.impl.StreamSamplerImpl [main] item D received
+2019-09-05 16:33:39,752 INFO com.rg.struct.impl.StreamSamplerImpl [main] item O received
+2019-09-05 16:33:39,752 INFO com.rg.struct.impl.StreamSamplerImpl [main] item G received
+2019-09-05 16:33:39,753 INFO com.rg.runner.Runner [main] sample [A, U, T, Z, C, H, B, V, H, E, I, Q, U] 
+2019-09-05 16:41:41,324 INFO com.rg.struct.impl.StreamSamplerImpl [main] reservoir of size 5 initialized
+2019-09-05 16:41:41,328 INFO com.rg.struct.impl.StreamSamplerImpl [main] item T received
+2019-09-05 16:41:41,328 INFO com.rg.struct.impl.StreamSamplerImpl [main] element T added to reservoir as not full
+2019-09-05 16:41:41,328 INFO com.rg.struct.impl.StreamSamplerImpl [main] item H received
+2019-09-05 16:41:41,328 INFO com.rg.struct.impl.StreamSamplerImpl [main] element H added to reservoir as not full
+2019-09-05 16:41:41,328 INFO com.rg.struct.impl.StreamSamplerImpl [main] item E received
+2019-09-05 16:41:41,328 INFO com.rg.struct.impl.StreamSamplerImpl [main] element E added to reservoir as not full
+2019-09-05 16:41:41,328 INFO com.rg.struct.impl.StreamSamplerImpl [main] item Q received
+2019-09-05 16:41:41,328 INFO com.rg.struct.impl.StreamSamplerImpl [main] element Q added to reservoir as not full
+2019-09-05 16:41:41,328 INFO com.rg.struct.impl.StreamSamplerImpl [main] item U received
+2019-09-05 16:41:41,328 INFO com.rg.struct.impl.StreamSamplerImpl [main] element U added to reservoir as not full
+2019-09-05 16:41:41,328 INFO com.rg.struct.impl.StreamSamplerImpl [main] item I received
+2019-09-05 16:41:41,328 INFO com.rg.struct.impl.StreamSamplerImpl [main] element I replaced to reservoir as  full
+2019-09-05 16:41:41,328 INFO com.rg.struct.impl.StreamSamplerImpl [main] item C received
+2019-09-05 16:41:41,329 INFO com.rg.struct.impl.StreamSamplerImpl [main] item K received
+2019-09-05 16:41:41,329 INFO com.rg.struct.impl.StreamSamplerImpl [main] item B received
+2019-09-05 16:41:41,329 INFO com.rg.struct.impl.StreamSamplerImpl [main] element B replaced to reservoir as  full
+2019-09-05 16:41:41,329 INFO com.rg.struct.impl.StreamSamplerImpl [main] item R received
+2019-09-05 16:41:41,329 INFO com.rg.struct.impl.StreamSamplerImpl [main] item O received
+2019-09-05 16:41:41,329 INFO com.rg.struct.impl.StreamSamplerImpl [main] element O replaced to reservoir as  full
+2019-09-05 16:41:41,329 INFO com.rg.struct.impl.StreamSamplerImpl [main] item W received
+2019-09-05 16:41:41,329 INFO com.rg.struct.impl.StreamSamplerImpl [main] item N received
+2019-09-05 16:41:41,329 INFO com.rg.struct.impl.StreamSamplerImpl [main] element N replaced to reservoir as  full
+2019-09-05 16:41:41,329 INFO com.rg.struct.impl.StreamSamplerImpl [main] item F received
+2019-09-05 16:41:41,329 INFO com.rg.struct.impl.StreamSamplerImpl [main] item O received
+2019-09-05 16:41:41,329 INFO com.rg.struct.impl.StreamSamplerImpl [main] item X received
+2019-09-05 16:41:41,329 INFO com.rg.struct.impl.StreamSamplerImpl [main] item J received
+2019-09-05 16:41:41,329 INFO com.rg.struct.impl.StreamSamplerImpl [main] item U received
+2019-09-05 16:41:41,329 INFO com.rg.struct.impl.StreamSamplerImpl [main] item M received
+2019-09-05 16:41:41,329 INFO com.rg.struct.impl.StreamSamplerImpl [main] item P received
+2019-09-05 16:41:41,329 INFO com.rg.struct.impl.StreamSamplerImpl [main] item S received
+2019-09-05 16:41:41,330 INFO com.rg.struct.impl.StreamSamplerImpl [main] item O received
+2019-09-05 16:41:41,330 INFO com.rg.struct.impl.StreamSamplerImpl [main] item V received
+2019-09-05 16:41:41,330 INFO com.rg.struct.impl.StreamSamplerImpl [main] item E received
+2019-09-05 16:41:41,330 INFO com.rg.struct.impl.StreamSamplerImpl [main] item R received
+2019-09-05 16:41:41,330 INFO com.rg.struct.impl.StreamSamplerImpl [main] item T received
+2019-09-05 16:41:41,330 INFO com.rg.struct.impl.StreamSamplerImpl [main] item H received
+2019-09-05 16:41:41,330 INFO com.rg.struct.impl.StreamSamplerImpl [main] item E received
+2019-09-05 16:41:41,330 INFO com.rg.struct.impl.StreamSamplerImpl [main] item L received
+2019-09-05 16:41:41,330 INFO com.rg.struct.impl.StreamSamplerImpl [main] item A received
+2019-09-05 16:41:41,330 INFO com.rg.struct.impl.StreamSamplerImpl [main] item Z received
+2019-09-05 16:41:41,330 INFO com.rg.struct.impl.StreamSamplerImpl [main] item Y received
+2019-09-05 16:41:41,330 INFO com.rg.struct.impl.StreamSamplerImpl [main] item D received
+2019-09-05 16:41:41,330 INFO com.rg.struct.impl.StreamSamplerImpl [main] item O received
+2019-09-05 16:41:41,330 INFO com.rg.struct.impl.StreamSamplerImpl [main] item G received
+2019-09-05 16:41:41,331 INFO com.rg.runner.Runner [main] sample [O, T, N, B, H, I, E, Q, U] 
+2019-09-05 16:43:08,990 INFO com.rg.struct.impl.StreamSamplerImpl [main] reservoir of size 5 initialized
+2019-09-05 16:43:08,995 INFO com.rg.struct.impl.StreamSamplerImpl [main] item T received
+2019-09-05 16:43:08,995 INFO com.rg.struct.impl.StreamSamplerImpl [main] element T added to reservoir as not full
+2019-09-05 16:43:08,995 INFO com.rg.struct.impl.StreamSamplerImpl [main] item H received
+2019-09-05 16:43:08,995 INFO com.rg.struct.impl.StreamSamplerImpl [main] element H added to reservoir as not full
+2019-09-05 16:43:08,995 INFO com.rg.struct.impl.StreamSamplerImpl [main] item E received
+2019-09-05 16:43:08,995 INFO com.rg.struct.impl.StreamSamplerImpl [main] element E added to reservoir as not full
+2019-09-05 16:43:08,995 INFO com.rg.struct.impl.StreamSamplerImpl [main] item Q received
+2019-09-05 16:43:08,995 INFO com.rg.struct.impl.StreamSamplerImpl [main] element Q added to reservoir as not full
+2019-09-05 16:43:08,995 INFO com.rg.struct.impl.StreamSamplerImpl [main] item U received
+2019-09-05 16:43:08,995 INFO com.rg.struct.impl.StreamSamplerImpl [main] element U added to reservoir as not full
+2019-09-05 16:43:08,995 INFO com.rg.struct.impl.StreamSamplerImpl [main] item I received
+2019-09-05 16:43:08,995 INFO com.rg.struct.impl.StreamSamplerImpl [main] element I replaced to reservoir as  full
+2019-09-05 16:43:08,995 INFO com.rg.struct.impl.StreamSamplerImpl [main] item C received
+2019-09-05 16:43:08,996 INFO com.rg.struct.impl.StreamSamplerImpl [main] item K received
+2019-09-05 16:43:08,996 INFO com.rg.struct.impl.StreamSamplerImpl [main] item B received
+2019-09-05 16:43:08,996 INFO com.rg.struct.impl.StreamSamplerImpl [main] item R received
+2019-09-05 16:43:08,996 INFO com.rg.struct.impl.StreamSamplerImpl [main] item O received
+2019-09-05 16:43:08,996 INFO com.rg.struct.impl.StreamSamplerImpl [main] element O replaced to reservoir as  full
+2019-09-05 16:43:08,996 INFO com.rg.struct.impl.StreamSamplerImpl [main] item W received
+2019-09-05 16:43:08,996 INFO com.rg.struct.impl.StreamSamplerImpl [main] item N received
+2019-09-05 16:43:08,996 INFO com.rg.struct.impl.StreamSamplerImpl [main] element N replaced to reservoir as  full
+2019-09-05 16:43:08,996 INFO com.rg.struct.impl.StreamSamplerImpl [main] item F received
+2019-09-05 16:43:08,996 INFO com.rg.struct.impl.StreamSamplerImpl [main] element F replaced to reservoir as  full
+2019-09-05 16:43:08,996 INFO com.rg.struct.impl.StreamSamplerImpl [main] item O received
+2019-09-05 16:43:08,996 INFO com.rg.struct.impl.StreamSamplerImpl [main] item X received
+2019-09-05 16:43:08,996 INFO com.rg.struct.impl.StreamSamplerImpl [main] element X replaced to reservoir as  full
+2019-09-05 16:43:08,996 INFO com.rg.struct.impl.StreamSamplerImpl [main] item J received
+2019-09-05 16:43:08,997 INFO com.rg.struct.impl.StreamSamplerImpl [main] item U received
+2019-09-05 16:43:08,997 INFO com.rg.struct.impl.StreamSamplerImpl [main] item M received
+2019-09-05 16:43:08,997 INFO com.rg.struct.impl.StreamSamplerImpl [main] element M replaced to reservoir as  full
+2019-09-05 16:43:08,997 INFO com.rg.struct.impl.StreamSamplerImpl [main] item P received
+2019-09-05 16:43:08,997 INFO com.rg.struct.impl.StreamSamplerImpl [main] item S received
+2019-09-05 16:43:08,997 INFO com.rg.struct.impl.StreamSamplerImpl [main] item O received
+2019-09-05 16:43:08,997 INFO com.rg.struct.impl.StreamSamplerImpl [main] item V received
+2019-09-05 16:43:08,997 INFO com.rg.struct.impl.StreamSamplerImpl [main] element V replaced to reservoir as  full
+2019-09-05 16:43:08,997 INFO com.rg.struct.impl.StreamSamplerImpl [main] item E received
+2019-09-05 16:43:08,997 INFO com.rg.struct.impl.StreamSamplerImpl [main] item R received
+2019-09-05 16:43:08,998 INFO com.rg.struct.impl.StreamSamplerImpl [main] item T received
+2019-09-05 16:43:08,998 INFO com.rg.struct.impl.StreamSamplerImpl [main] item H received
+2019-09-05 16:43:08,998 INFO com.rg.struct.impl.StreamSamplerImpl [main] item E received
+2019-09-05 16:43:08,998 INFO com.rg.struct.impl.StreamSamplerImpl [main] item L received
+2019-09-05 16:43:08,998 INFO com.rg.struct.impl.StreamSamplerImpl [main] item A received
+2019-09-05 16:43:08,998 INFO com.rg.struct.impl.StreamSamplerImpl [main] item Z received
+2019-09-05 16:43:08,998 INFO com.rg.struct.impl.StreamSamplerImpl [main] item Y received
+2019-09-05 16:43:08,998 INFO com.rg.struct.impl.StreamSamplerImpl [main] item D received
+2019-09-05 16:43:08,998 INFO com.rg.struct.impl.StreamSamplerImpl [main] item O received
+2019-09-05 16:43:08,998 INFO com.rg.struct.impl.StreamSamplerImpl [main] item G received
+2019-09-05 16:43:08,998 INFO com.rg.runner.Runner [main] sample [V, X, E, M, U] 
+2019-09-05 16:43:17,751 INFO com.rg.struct.impl.StreamSamplerImpl [main] reservoir of size 5 initialized
+2019-09-05 16:43:17,755 INFO com.rg.struct.impl.StreamSamplerImpl [main] item T received
+2019-09-05 16:43:17,756 INFO com.rg.struct.impl.StreamSamplerImpl [main] element T added to reservoir as not full
+2019-09-05 16:43:17,756 INFO com.rg.struct.impl.StreamSamplerImpl [main] item H received
+2019-09-05 16:43:17,756 INFO com.rg.struct.impl.StreamSamplerImpl [main] element H added to reservoir as not full
+2019-09-05 16:43:17,756 INFO com.rg.struct.impl.StreamSamplerImpl [main] item E received
+2019-09-05 16:43:17,756 INFO com.rg.struct.impl.StreamSamplerImpl [main] element E added to reservoir as not full
+2019-09-05 16:43:17,756 INFO com.rg.struct.impl.StreamSamplerImpl [main] item Q received
+2019-09-05 16:43:17,756 INFO com.rg.struct.impl.StreamSamplerImpl [main] element Q added to reservoir as not full
+2019-09-05 16:43:17,756 INFO com.rg.struct.impl.StreamSamplerImpl [main] item U received
+2019-09-05 16:43:17,756 INFO com.rg.struct.impl.StreamSamplerImpl [main] element U added to reservoir as not full
+2019-09-05 16:43:17,756 INFO com.rg.struct.impl.StreamSamplerImpl [main] item I received
+2019-09-05 16:43:17,756 INFO com.rg.struct.impl.StreamSamplerImpl [main] element I replaced to reservoir as  full
+2019-09-05 16:43:17,756 INFO com.rg.struct.impl.StreamSamplerImpl [main] item C received
+2019-09-05 16:43:17,757 INFO com.rg.struct.impl.StreamSamplerImpl [main] element C replaced to reservoir as  full
+2019-09-05 16:43:17,757 INFO com.rg.struct.impl.StreamSamplerImpl [main] item K received
+2019-09-05 16:43:17,757 INFO com.rg.struct.impl.StreamSamplerImpl [main] element K replaced to reservoir as  full
+2019-09-05 16:43:17,757 INFO com.rg.struct.impl.StreamSamplerImpl [main] item B received
+2019-09-05 16:43:17,757 INFO com.rg.struct.impl.StreamSamplerImpl [main] element B replaced to reservoir as  full
+2019-09-05 16:43:17,757 INFO com.rg.struct.impl.StreamSamplerImpl [main] item R received
+2019-09-05 16:43:17,757 INFO com.rg.struct.impl.StreamSamplerImpl [main] item O received
+2019-09-05 16:43:17,757 INFO com.rg.struct.impl.StreamSamplerImpl [main] item W received
+2019-09-05 16:43:17,757 INFO com.rg.struct.impl.StreamSamplerImpl [main] item N received
+2019-09-05 16:43:17,757 INFO com.rg.struct.impl.StreamSamplerImpl [main] item F received
+2019-09-05 16:43:17,757 INFO com.rg.struct.impl.StreamSamplerImpl [main] element F replaced to reservoir as  full
+2019-09-05 16:43:17,757 INFO com.rg.struct.impl.StreamSamplerImpl [main] item O received
+2019-09-05 16:43:17,757 INFO com.rg.struct.impl.StreamSamplerImpl [main] item X received
+2019-09-05 16:43:17,757 INFO com.rg.struct.impl.StreamSamplerImpl [main] element X replaced to reservoir as  full
+2019-09-05 16:43:17,758 INFO com.rg.struct.impl.StreamSamplerImpl [main] item J received
+2019-09-05 16:43:17,758 INFO com.rg.struct.impl.StreamSamplerImpl [main] element J replaced to reservoir as  full
+2019-09-05 16:43:17,758 INFO com.rg.struct.impl.StreamSamplerImpl [main] item U received
+2019-09-05 16:43:17,758 INFO com.rg.struct.impl.StreamSamplerImpl [main] element U replaced to reservoir as  full
+2019-09-05 16:43:17,758 INFO com.rg.struct.impl.StreamSamplerImpl [main] item M received
+2019-09-05 16:43:17,758 INFO com.rg.struct.impl.StreamSamplerImpl [main] item P received
+2019-09-05 16:43:17,758 INFO com.rg.struct.impl.StreamSamplerImpl [main] element P replaced to reservoir as  full
+2019-09-05 16:43:17,758 INFO com.rg.struct.impl.StreamSamplerImpl [main] item S received
+2019-09-05 16:43:17,758 INFO com.rg.struct.impl.StreamSamplerImpl [main] item O received
+2019-09-05 16:43:17,758 INFO com.rg.struct.impl.StreamSamplerImpl [main] element O replaced to reservoir as  full
+2019-09-05 16:43:17,759 INFO com.rg.struct.impl.StreamSamplerImpl [main] item V received
+2019-09-05 16:43:17,759 INFO com.rg.struct.impl.StreamSamplerImpl [main] item E received
+2019-09-05 16:43:17,759 INFO com.rg.struct.impl.StreamSamplerImpl [main] item R received
+2019-09-05 16:43:17,759 INFO com.rg.struct.impl.StreamSamplerImpl [main] item T received
+2019-09-05 16:43:17,759 INFO com.rg.struct.impl.StreamSamplerImpl [main] item H received
+2019-09-05 16:43:17,759 INFO com.rg.struct.impl.StreamSamplerImpl [main] item E received
+2019-09-05 16:43:17,759 INFO com.rg.struct.impl.StreamSamplerImpl [main] element E replaced to reservoir as  full
+2019-09-05 16:43:17,759 INFO com.rg.struct.impl.StreamSamplerImpl [main] item L received
+2019-09-05 16:43:17,759 INFO com.rg.struct.impl.StreamSamplerImpl [main] item A received
+2019-09-05 16:43:17,759 INFO com.rg.struct.impl.StreamSamplerImpl [main] item Z received
+2019-09-05 16:43:17,759 INFO com.rg.struct.impl.StreamSamplerImpl [main] item Y received
+2019-09-05 16:43:17,759 INFO com.rg.struct.impl.StreamSamplerImpl [main] item D received
+2019-09-05 16:43:17,759 INFO com.rg.struct.impl.StreamSamplerImpl [main] item O received
+2019-09-05 16:43:17,759 INFO com.rg.struct.impl.StreamSamplerImpl [main] item G received
+2019-09-05 16:43:17,759 INFO com.rg.runner.Runner [main] sample [J, P, F, E, U] 
+2019-09-05 16:52:43,250 INFO com.rg.struct.StreamSamplerImpl [main] reservoir of size 5 initialized
+2019-09-05 16:52:43,254 INFO com.rg.struct.StreamSamplerImpl [main] item T received
+2019-09-05 16:52:43,254 INFO com.rg.struct.StreamSamplerImpl [main] element T added to reservoir as not full
+2019-09-05 16:52:43,254 INFO com.rg.struct.StreamSamplerImpl [main] item H received
+2019-09-05 16:52:43,254 INFO com.rg.struct.StreamSamplerImpl [main] element H added to reservoir as not full
+2019-09-05 16:52:43,254 INFO com.rg.struct.StreamSamplerImpl [main] item E received
+2019-09-05 16:52:43,254 INFO com.rg.struct.StreamSamplerImpl [main] element E added to reservoir as not full
+2019-09-05 16:52:43,254 INFO com.rg.struct.StreamSamplerImpl [main] item Q received
+2019-09-05 16:52:43,254 INFO com.rg.struct.StreamSamplerImpl [main] element Q added to reservoir as not full
+2019-09-05 16:52:43,254 INFO com.rg.struct.StreamSamplerImpl [main] item U received
+2019-09-05 16:52:43,254 INFO com.rg.struct.StreamSamplerImpl [main] element U added to reservoir as not full
+2019-09-05 16:52:43,254 INFO com.rg.struct.StreamSamplerImpl [main] item I received
+2019-09-05 16:52:43,255 INFO com.rg.struct.StreamSamplerImpl [main] item C received
+2019-09-05 16:52:43,255 INFO com.rg.struct.StreamSamplerImpl [main] item K received
+2019-09-05 16:52:43,255 INFO com.rg.struct.StreamSamplerImpl [main] item B received
+2019-09-05 16:52:43,255 INFO com.rg.struct.StreamSamplerImpl [main] element B replaced to reservoir as  full
+2019-09-05 16:52:43,255 INFO com.rg.struct.StreamSamplerImpl [main] item R received
+2019-09-05 16:52:43,255 INFO com.rg.struct.StreamSamplerImpl [main] element R replaced to reservoir as  full
+2019-09-05 16:52:43,255 INFO com.rg.struct.StreamSamplerImpl [main] item O received
+2019-09-05 16:52:43,255 INFO com.rg.struct.StreamSamplerImpl [main] item W received
+2019-09-05 16:52:43,255 INFO com.rg.struct.StreamSamplerImpl [main] item N received
+2019-09-05 16:52:43,255 INFO com.rg.struct.StreamSamplerImpl [main] item F received
+2019-09-05 16:52:43,255 INFO com.rg.struct.StreamSamplerImpl [main] item O received
+2019-09-05 16:52:43,255 INFO com.rg.struct.StreamSamplerImpl [main] item X received
+2019-09-05 16:52:43,255 INFO com.rg.struct.StreamSamplerImpl [main] element X replaced to reservoir as  full
+2019-09-05 16:52:43,255 INFO com.rg.struct.StreamSamplerImpl [main] item J received
+2019-09-05 16:52:43,255 INFO com.rg.struct.StreamSamplerImpl [main] item U received
+2019-09-05 16:52:43,256 INFO com.rg.struct.StreamSamplerImpl [main] item M received
+2019-09-05 16:52:43,256 INFO com.rg.struct.StreamSamplerImpl [main] item P received
+2019-09-05 16:52:43,256 INFO com.rg.struct.StreamSamplerImpl [main] item S received
+2019-09-05 16:52:43,256 INFO com.rg.struct.StreamSamplerImpl [main] item O received
+2019-09-05 16:52:43,256 INFO com.rg.struct.StreamSamplerImpl [main] item V received
+2019-09-05 16:52:43,256 INFO com.rg.struct.StreamSamplerImpl [main] item E received
+2019-09-05 16:52:43,256 INFO com.rg.struct.StreamSamplerImpl [main] item R received
+2019-09-05 16:52:43,256 INFO com.rg.struct.StreamSamplerImpl [main] element R replaced to reservoir as  full
+2019-09-05 16:52:43,256 INFO com.rg.struct.StreamSamplerImpl [main] item T received
+2019-09-05 16:52:43,256 INFO com.rg.struct.StreamSamplerImpl [main] item H received
+2019-09-05 16:52:43,256 INFO com.rg.struct.StreamSamplerImpl [main] element H replaced to reservoir as  full
+2019-09-05 16:52:43,256 INFO com.rg.struct.StreamSamplerImpl [main] item E received
+2019-09-05 16:52:43,256 INFO com.rg.struct.StreamSamplerImpl [main] item L received
+2019-09-05 16:52:43,256 INFO com.rg.struct.StreamSamplerImpl [main] item A received
+2019-09-05 16:52:43,256 INFO com.rg.struct.StreamSamplerImpl [main] item Z received
+2019-09-05 16:52:43,256 INFO com.rg.struct.StreamSamplerImpl [main] item Y received
+2019-09-05 16:52:43,256 INFO com.rg.struct.StreamSamplerImpl [main] item D received
+2019-09-05 16:52:43,256 INFO com.rg.struct.StreamSamplerImpl [main] item O received
+2019-09-05 16:52:43,257 INFO com.rg.struct.StreamSamplerImpl [main] item G received
+2019-09-05 16:52:43,257 INFO com.rg.runner.Runner [main] sample [T, B, H, X, R] 
+2019-09-05 16:53:03,447 INFO com.rg.struct.StreamSamplerImpl [main] reservoir of size 5 initialized
+2019-09-05 16:53:03,451 INFO com.rg.struct.StreamSamplerImpl [main] item T received
+2019-09-05 16:53:03,451 INFO com.rg.struct.StreamSamplerImpl [main] item H received
+2019-09-05 16:53:03,451 INFO com.rg.struct.StreamSamplerImpl [main] item E received
+2019-09-05 16:53:03,451 INFO com.rg.struct.StreamSamplerImpl [main] item Q received
+2019-09-05 16:53:03,451 INFO com.rg.struct.StreamSamplerImpl [main] item U received
+2019-09-05 16:53:03,451 INFO com.rg.struct.StreamSamplerImpl [main] item I received
+2019-09-05 16:53:03,451 INFO com.rg.struct.StreamSamplerImpl [main] item C received
+2019-09-05 16:53:03,451 INFO com.rg.struct.StreamSamplerImpl [main] item K received
+2019-09-05 16:53:03,452 INFO com.rg.struct.StreamSamplerImpl [main] item B received
+2019-09-05 16:53:03,452 INFO com.rg.struct.StreamSamplerImpl [main] item R received
+2019-09-05 16:53:03,452 INFO com.rg.struct.StreamSamplerImpl [main] item O received
+2019-09-05 16:53:03,452 INFO com.rg.struct.StreamSamplerImpl [main] item W received
+2019-09-05 16:53:03,452 INFO com.rg.struct.StreamSamplerImpl [main] item N received
+2019-09-05 16:53:03,452 INFO com.rg.struct.StreamSamplerImpl [main] item F received
+2019-09-05 16:53:03,452 INFO com.rg.struct.StreamSamplerImpl [main] item O received
+2019-09-05 16:53:03,452 INFO com.rg.struct.StreamSamplerImpl [main] item X received
+2019-09-05 16:53:03,452 INFO com.rg.struct.StreamSamplerImpl [main] item J received
+2019-09-05 16:53:03,452 INFO com.rg.struct.StreamSamplerImpl [main] item U received
+2019-09-05 16:53:03,453 INFO com.rg.struct.StreamSamplerImpl [main] item M received
+2019-09-05 16:53:03,453 INFO com.rg.struct.StreamSamplerImpl [main] item P received
+2019-09-05 16:53:03,453 INFO com.rg.struct.StreamSamplerImpl [main] item S received
+2019-09-05 16:53:03,453 INFO com.rg.struct.StreamSamplerImpl [main] item O received
+2019-09-05 16:53:03,453 INFO com.rg.struct.StreamSamplerImpl [main] item V received
+2019-09-05 16:53:03,453 INFO com.rg.struct.StreamSamplerImpl [main] item E received
+2019-09-05 16:53:03,453 INFO com.rg.struct.StreamSamplerImpl [main] item R received
+2019-09-05 16:53:03,453 INFO com.rg.struct.StreamSamplerImpl [main] item T received
+2019-09-05 16:53:03,453 INFO com.rg.struct.StreamSamplerImpl [main] item H received
+2019-09-05 16:53:03,454 INFO com.rg.struct.StreamSamplerImpl [main] item E received
+2019-09-05 16:53:03,454 INFO com.rg.struct.StreamSamplerImpl [main] item L received
+2019-09-05 16:53:03,454 INFO com.rg.struct.StreamSamplerImpl [main] item A received
+2019-09-05 16:53:03,454 INFO com.rg.struct.StreamSamplerImpl [main] item Z received
+2019-09-05 16:53:03,454 INFO com.rg.struct.StreamSamplerImpl [main] item Y received
+2019-09-05 16:53:03,454 INFO com.rg.struct.StreamSamplerImpl [main] item D received
+2019-09-05 16:53:03,454 INFO com.rg.struct.StreamSamplerImpl [main] item O received
+2019-09-05 16:53:03,454 INFO com.rg.struct.StreamSamplerImpl [main] item G received
+2019-09-05 16:53:03,455 INFO com.rg.runner.Runner [main] sample [D, N, E, H, T] 
+2019-09-05 16:54:53,271 INFO com.rg.struct.StreamSamplerImpl [main] reservoir of size 5 initialized
+2019-09-05 16:54:53,275 INFO com.rg.struct.StreamSamplerImpl [main] item T received
+2019-09-05 16:54:53,275 INFO com.rg.struct.StreamSamplerImpl [main] item H received
+2019-09-05 16:54:53,275 INFO com.rg.struct.StreamSamplerImpl [main] item E received
+2019-09-05 16:54:53,275 INFO com.rg.struct.StreamSamplerImpl [main] item Q received
+2019-09-05 16:54:53,275 INFO com.rg.struct.StreamSamplerImpl [main] item U received
+2019-09-05 16:54:53,275 INFO com.rg.struct.StreamSamplerImpl [main] item I received
+2019-09-05 16:54:53,275 INFO com.rg.struct.StreamSamplerImpl [main] item C received
+2019-09-05 16:54:53,275 INFO com.rg.struct.StreamSamplerImpl [main] item K received
+2019-09-05 16:54:53,275 INFO com.rg.struct.StreamSamplerImpl [main] item B received
+2019-09-05 16:54:53,275 INFO com.rg.struct.StreamSamplerImpl [main] item R received
+2019-09-05 16:54:53,275 INFO com.rg.struct.StreamSamplerImpl [main] item O received
+2019-09-05 16:54:53,275 INFO com.rg.struct.StreamSamplerImpl [main] item W received
+2019-09-05 16:54:53,276 INFO com.rg.struct.StreamSamplerImpl [main] item N received
+2019-09-05 16:54:53,276 INFO com.rg.struct.StreamSamplerImpl [main] item F received
+2019-09-05 16:54:53,276 INFO com.rg.struct.StreamSamplerImpl [main] item O received
+2019-09-05 16:54:53,276 INFO com.rg.struct.StreamSamplerImpl [main] item X received
+2019-09-05 16:54:53,276 INFO com.rg.struct.StreamSamplerImpl [main] item J received
+2019-09-05 16:54:53,276 INFO com.rg.struct.StreamSamplerImpl [main] item U received
+2019-09-05 16:54:53,276 INFO com.rg.struct.StreamSamplerImpl [main] item M received
+2019-09-05 16:54:53,276 INFO com.rg.struct.StreamSamplerImpl [main] item P received
+2019-09-05 16:54:53,276 INFO com.rg.struct.StreamSamplerImpl [main] item S received
+2019-09-05 16:54:53,276 INFO com.rg.struct.StreamSamplerImpl [main] item O received
+2019-09-05 16:54:53,276 INFO com.rg.struct.StreamSamplerImpl [main] item V received
+2019-09-05 16:54:53,276 INFO com.rg.struct.StreamSamplerImpl [main] item E received
+2019-09-05 16:54:53,276 INFO com.rg.struct.StreamSamplerImpl [main] item R received
+2019-09-05 16:54:53,277 INFO com.rg.struct.StreamSamplerImpl [main] item T received
+2019-09-05 16:54:53,277 INFO com.rg.struct.StreamSamplerImpl [main] item H received
+2019-09-05 16:54:53,277 INFO com.rg.struct.StreamSamplerImpl [main] item E received
+2019-09-05 16:54:53,277 INFO com.rg.struct.StreamSamplerImpl [main] item L received
+2019-09-05 16:54:53,277 INFO com.rg.struct.StreamSamplerImpl [main] item A received
+2019-09-05 16:54:53,277 INFO com.rg.struct.StreamSamplerImpl [main] item Z received
+2019-09-05 16:54:53,277 INFO com.rg.struct.StreamSamplerImpl [main] item Y received
+2019-09-05 16:54:53,277 INFO com.rg.struct.StreamSamplerImpl [main] item D received
+2019-09-05 16:54:53,277 INFO com.rg.struct.StreamSamplerImpl [main] item O received
+2019-09-05 16:54:53,277 INFO com.rg.struct.StreamSamplerImpl [main] item G received
+2019-09-05 16:54:53,277 INFO com.rg.runner.Runner [main] sample [I, H, W, J, P] 
+2019-09-05 16:59:33,816 INFO com.rg.struct.StreamSamplerImpl [main] reservoir of size 5 initialized
+2019-09-05 16:59:33,821 INFO com.rg.struct.StreamSamplerImpl [main] item T received
+2019-09-05 16:59:33,821 INFO com.rg.struct.StreamSamplerImpl [main] item H received
+2019-09-05 16:59:33,821 INFO com.rg.struct.StreamSamplerImpl [main] item E received
+2019-09-05 16:59:33,821 INFO com.rg.struct.StreamSamplerImpl [main] item Q received
+2019-09-05 16:59:33,821 INFO com.rg.struct.StreamSamplerImpl [main] item U received
+2019-09-05 16:59:33,821 INFO com.rg.struct.StreamSamplerImpl [main] item I received
+2019-09-05 16:59:33,822 INFO com.rg.struct.StreamSamplerImpl [main] item C received
+2019-09-05 16:59:33,822 INFO com.rg.struct.StreamSamplerImpl [main] item K received
+2019-09-05 16:59:33,822 INFO com.rg.struct.StreamSamplerImpl [main] item B received
+2019-09-05 16:59:33,822 INFO com.rg.struct.StreamSamplerImpl [main] item R received
+2019-09-05 16:59:33,822 INFO com.rg.struct.StreamSamplerImpl [main] item O received
+2019-09-05 16:59:33,822 INFO com.rg.struct.StreamSamplerImpl [main] item W received
+2019-09-05 16:59:33,822 INFO com.rg.struct.StreamSamplerImpl [main] item N received
+2019-09-05 16:59:33,822 INFO com.rg.struct.StreamSamplerImpl [main] item F received
+2019-09-05 16:59:33,823 INFO com.rg.struct.StreamSamplerImpl [main] item O received
+2019-09-05 16:59:33,823 INFO com.rg.struct.StreamSamplerImpl [main] item X received
+2019-09-05 16:59:33,823 INFO com.rg.struct.StreamSamplerImpl [main] item J received
+2019-09-05 16:59:33,823 INFO com.rg.struct.StreamSamplerImpl [main] item U received
+2019-09-05 16:59:33,823 INFO com.rg.struct.StreamSamplerImpl [main] item M received
+2019-09-05 16:59:33,823 INFO com.rg.struct.StreamSamplerImpl [main] item P received
+2019-09-05 16:59:33,823 INFO com.rg.struct.StreamSamplerImpl [main] item S received
+2019-09-05 16:59:33,824 INFO com.rg.struct.StreamSamplerImpl [main] item O received
+2019-09-05 16:59:33,824 INFO com.rg.struct.StreamSamplerImpl [main] item V received
+2019-09-05 16:59:33,824 INFO com.rg.struct.StreamSamplerImpl [main] item E received
+2019-09-05 16:59:33,824 INFO com.rg.struct.StreamSamplerImpl [main] item R received
+2019-09-05 16:59:33,824 INFO com.rg.struct.StreamSamplerImpl [main] item T received
+2019-09-05 16:59:33,824 INFO com.rg.struct.StreamSamplerImpl [main] item H received
+2019-09-05 16:59:33,824 INFO com.rg.struct.StreamSamplerImpl [main] item E received
+2019-09-05 16:59:33,824 INFO com.rg.struct.StreamSamplerImpl [main] item L received
+2019-09-05 16:59:33,824 INFO com.rg.struct.StreamSamplerImpl [main] item A received
+2019-09-05 16:59:33,824 INFO com.rg.struct.StreamSamplerImpl [main] item Z received
+2019-09-05 16:59:33,824 INFO com.rg.struct.StreamSamplerImpl [main] item Y received
+2019-09-05 16:59:33,825 INFO com.rg.struct.StreamSamplerImpl [main] item D received
+2019-09-05 16:59:33,825 INFO com.rg.struct.StreamSamplerImpl [main] item O received
+2019-09-05 16:59:33,825 INFO com.rg.struct.StreamSamplerImpl [main] item G received
+2019-09-05 17:29:11,007 INFO com.rg.struct.StreamSamplerImpl [main] reservoir of size 5 initialized
+2019-09-05 17:29:11,010 INFO com.rg.struct.StreamSamplerImpl [main] item T received
+2019-09-05 17:29:11,010 INFO com.rg.struct.StreamSamplerImpl [main] item H received
+2019-09-05 17:29:11,010 INFO com.rg.struct.StreamSamplerImpl [main] item E received
+2019-09-05 17:29:11,010 INFO com.rg.struct.StreamSamplerImpl [main] item Q received
+2019-09-05 17:29:11,010 INFO com.rg.struct.StreamSamplerImpl [main] item U received
+2019-09-05 17:29:11,011 INFO com.rg.struct.StreamSamplerImpl [main] item I received
+2019-09-05 17:29:11,011 INFO com.rg.struct.StreamSamplerImpl [main] item C received
+2019-09-05 17:29:11,011 INFO com.rg.struct.StreamSamplerImpl [main] item K received
+2019-09-05 17:29:11,011 INFO com.rg.struct.StreamSamplerImpl [main] item B received
+2019-09-05 17:29:11,011 INFO com.rg.struct.StreamSamplerImpl [main] item R received
+2019-09-05 17:29:11,011 INFO com.rg.struct.StreamSamplerImpl [main] item O received
+2019-09-05 17:29:11,011 INFO com.rg.struct.StreamSamplerImpl [main] item W received
+2019-09-05 17:29:11,011 INFO com.rg.struct.StreamSamplerImpl [main] item N received
+2019-09-05 17:29:11,011 INFO com.rg.struct.StreamSamplerImpl [main] item F received
+2019-09-05 17:29:11,011 INFO com.rg.struct.StreamSamplerImpl [main] item O received
+2019-09-05 17:29:11,011 INFO com.rg.struct.StreamSamplerImpl [main] item X received
+2019-09-05 17:29:11,011 INFO com.rg.struct.StreamSamplerImpl [main] item J received
+2019-09-05 17:29:11,011 INFO com.rg.struct.StreamSamplerImpl [main] item U received
+2019-09-05 17:29:11,012 INFO com.rg.struct.StreamSamplerImpl [main] item M received
+2019-09-05 17:29:11,012 INFO com.rg.struct.StreamSamplerImpl [main] item P received
+2019-09-05 17:29:11,012 INFO com.rg.struct.StreamSamplerImpl [main] item S received
+2019-09-05 17:29:11,012 INFO com.rg.struct.StreamSamplerImpl [main] item O received
+2019-09-05 17:29:11,012 INFO com.rg.struct.StreamSamplerImpl [main] item V received
+2019-09-05 17:29:11,012 INFO com.rg.struct.StreamSamplerImpl [main] item E received
+2019-09-05 17:29:11,012 INFO com.rg.struct.StreamSamplerImpl [main] item R received
+2019-09-05 17:29:11,012 INFO com.rg.struct.StreamSamplerImpl [main] item T received
+2019-09-05 17:29:11,012 INFO com.rg.struct.StreamSamplerImpl [main] item H received
+2019-09-05 17:29:11,012 INFO com.rg.struct.StreamSamplerImpl [main] item E received
+2019-09-05 17:29:11,012 INFO com.rg.struct.StreamSamplerImpl [main] item L received
+2019-09-05 17:29:11,012 INFO com.rg.struct.StreamSamplerImpl [main] item A received
+2019-09-05 17:29:11,012 INFO com.rg.struct.StreamSamplerImpl [main] item Z received
+2019-09-05 17:29:11,013 INFO com.rg.struct.StreamSamplerImpl [main] item Y received
+2019-09-05 17:29:11,013 INFO com.rg.struct.StreamSamplerImpl [main] item D received
+2019-09-05 17:29:11,013 INFO com.rg.struct.StreamSamplerImpl [main] item O received
+2019-09-05 17:29:11,013 INFO com.rg.struct.StreamSamplerImpl [main] item G received
+2019-09-05 17:29:11,014 INFO com.rg.struct.StreamSamplerImpl [main] reservoir of size 5 initialized
+2019-09-05 17:29:11,014 INFO com.rg.struct.StreamSamplerImpl [main] item T received
+2019-09-05 17:29:11,014 INFO com.rg.struct.StreamSamplerImpl [main] item H received
+2019-09-05 17:29:11,014 INFO com.rg.struct.StreamSamplerImpl [main] item E received
+2019-09-05 17:29:11,014 INFO com.rg.struct.StreamSamplerImpl [main] item Q received
+2019-09-05 17:29:11,014 INFO com.rg.struct.StreamSamplerImpl [main] item U received
+2019-09-05 17:29:11,014 INFO com.rg.struct.StreamSamplerImpl [main] item I received
+2019-09-05 17:29:11,014 INFO com.rg.struct.StreamSamplerImpl [main] item C received
+2019-09-05 17:29:11,014 INFO com.rg.struct.StreamSamplerImpl [main] item K received
+2019-09-05 17:29:11,014 INFO com.rg.struct.StreamSamplerImpl [main] item B received
+2019-09-05 17:29:11,014 INFO com.rg.struct.StreamSamplerImpl [main] item R received
+2019-09-05 17:29:11,014 INFO com.rg.struct.StreamSamplerImpl [main] item O received
+2019-09-05 17:29:11,014 INFO com.rg.struct.StreamSamplerImpl [main] item W received
+2019-09-05 17:29:11,015 INFO com.rg.struct.StreamSamplerImpl [main] item N received
+2019-09-05 17:29:11,015 INFO com.rg.struct.StreamSamplerImpl [main] item F received
+2019-09-05 17:29:11,015 INFO com.rg.struct.StreamSamplerImpl [main] item O received
+2019-09-05 17:29:11,015 INFO com.rg.struct.StreamSamplerImpl [main] item X received
+2019-09-05 17:29:11,015 INFO com.rg.struct.StreamSamplerImpl [main] item J received
+2019-09-05 17:29:11,015 INFO com.rg.struct.StreamSamplerImpl [main] item U received
+2019-09-05 17:29:11,015 INFO com.rg.struct.StreamSamplerImpl [main] item M received
+2019-09-05 17:29:11,015 INFO com.rg.struct.StreamSamplerImpl [main] item P received
+2019-09-05 17:29:11,015 INFO com.rg.struct.StreamSamplerImpl [main] item S received
+2019-09-05 17:29:11,015 INFO com.rg.struct.StreamSamplerImpl [main] item O received
+2019-09-05 17:29:11,016 INFO com.rg.struct.StreamSamplerImpl [main] item V received
+2019-09-05 17:29:11,016 INFO com.rg.struct.StreamSamplerImpl [main] item E received
+2019-09-05 17:29:11,016 INFO com.rg.struct.StreamSamplerImpl [main] item R received
+2019-09-05 17:29:11,016 INFO com.rg.struct.StreamSamplerImpl [main] item T received
+2019-09-05 17:29:11,016 INFO com.rg.struct.StreamSamplerImpl [main] item H received
+2019-09-05 17:29:11,016 INFO com.rg.struct.StreamSamplerImpl [main] item E received
+2019-09-05 17:29:11,016 INFO com.rg.struct.StreamSamplerImpl [main] item L received
+2019-09-05 17:29:11,016 INFO com.rg.struct.StreamSamplerImpl [main] item A received
+2019-09-05 17:29:11,016 INFO com.rg.struct.StreamSamplerImpl [main] item Z received
+2019-09-05 17:29:11,017 INFO com.rg.struct.StreamSamplerImpl [main] item Y received
+2019-09-05 17:29:11,017 INFO com.rg.struct.StreamSamplerImpl [main] item D received
+2019-09-05 17:29:11,017 INFO com.rg.struct.StreamSamplerImpl [main] item O received
+2019-09-05 17:29:11,017 INFO com.rg.struct.StreamSamplerImpl [main] item G received
+2019-09-05 17:35:55,832 INFO com.rg.struct.StreamSamplerImpl [main] reservoir of size 5 initialized
+2019-09-05 17:36:33,088 INFO com.rg.struct.StreamSamplerImpl [main] reservoir of size 5 initialized
+2019-09-05 21:25:03,563 INFO com.rg.struct.StreamSamplerImpl [main] reservoir of size 5 initialized
+2019-09-05 21:25:29,881 INFO com.rg.struct.StreamSamplerImpl [main] reservoir of size 5 initialized
+2019-09-05 21:25:42,629 INFO com.rg.struct.StreamSamplerImpl [main] reservoir of size 5 initialized
+2019-09-05 21:26:16,837 INFO com.rg.struct.StreamSamplerImpl [main] reservoir of size 5 initialized
+2019-09-05 21:26:47,372 INFO com.rg.struct.StreamSamplerImpl [main] reservoir of size 5 initialized
+2019-09-05 21:27:17,677 INFO com.rg.struct.StreamSamplerImpl [main] reservoir of size 5 initialized
+2019-09-05 21:27:46,905 INFO com.rg.struct.StreamSamplerImpl [main] reservoir of size 5 initialized
+2019-09-05 21:28:08,234 INFO com.rg.struct.StreamSamplerImpl [main] reservoir of size 5 initialized
+2019-09-05 21:28:15,845 INFO com.rg.struct.StreamSamplerImpl [main] reservoir of size 5 initialized
+2019-09-05 21:28:40,210 INFO com.rg.struct.StreamSamplerImpl [main] reservoir of size 5 initialized
+2019-09-05 21:31:03,100 INFO com.rg.struct.StreamSamplerImpl [main] reservoir of size 5 initialized
+2019-09-05 21:33:19,893 INFO com.rg.struct.StreamSamplerImpl [main] reservoir of size 5 initialized
+2019-09-05 21:35:34,903 INFO com.rg.struct.StreamSamplerImpl [main] reservoir of size 5 initialized
+2019-09-05 21:37:40,905 INFO com.rg.struct.StreamSamplerImpl [main] reservoir of size 5 initialized
+2019-09-05 21:40:39,330 INFO com.rg.struct.StreamSamplerImpl [main] reservoir of size 5 initialized
+2019-09-05 21:40:39,334 INFO com.rg.runner.Runner [main] Read THEQUICKBROWNFOXJUMPSOVERTHELAZYDOG, feeding to sampler 
+2019-09-05 21:40:39,335 INFO com.rg.struct.StreamSamplerImpl [main] item T received
+2019-09-05 21:40:39,335 INFO com.rg.struct.StreamSamplerImpl [main] item H received
+2019-09-05 21:40:39,335 INFO com.rg.struct.StreamSamplerImpl [main] item E received
+2019-09-05 21:40:39,335 INFO com.rg.struct.StreamSamplerImpl [main] item Q received
+2019-09-05 21:40:39,335 INFO com.rg.struct.StreamSamplerImpl [main] item U received
+2019-09-05 21:40:39,335 INFO com.rg.struct.StreamSamplerImpl [main] item I received
+2019-09-05 21:40:39,335 INFO com.rg.struct.StreamSamplerImpl [main] item C received
+2019-09-05 21:40:39,335 INFO com.rg.struct.StreamSamplerImpl [main] item K received
+2019-09-05 21:40:39,335 INFO com.rg.struct.StreamSamplerImpl [main] item B received
+2019-09-05 21:40:39,335 INFO com.rg.struct.StreamSamplerImpl [main] item R received
+2019-09-05 21:40:39,335 INFO com.rg.struct.StreamSamplerImpl [main] item O received
+2019-09-05 21:40:39,336 INFO com.rg.struct.StreamSamplerImpl [main] item W received
+2019-09-05 21:40:39,336 INFO com.rg.struct.StreamSamplerImpl [main] item N received
+2019-09-05 21:40:39,336 INFO com.rg.struct.StreamSamplerImpl [main] item F received
+2019-09-05 21:40:39,336 INFO com.rg.struct.StreamSamplerImpl [main] item O received
+2019-09-05 21:40:39,336 INFO com.rg.struct.StreamSamplerImpl [main] item X received
+2019-09-05 21:40:39,336 INFO com.rg.struct.StreamSamplerImpl [main] item J received
+2019-09-05 21:40:39,336 INFO com.rg.struct.StreamSamplerImpl [main] item U received
+2019-09-05 21:40:39,336 INFO com.rg.struct.StreamSamplerImpl [main] item M received
+2019-09-05 21:40:39,336 INFO com.rg.struct.StreamSamplerImpl [main] item P received
+2019-09-05 21:40:39,336 INFO com.rg.struct.StreamSamplerImpl [main] item S received
+2019-09-05 21:40:39,337 INFO com.rg.struct.StreamSamplerImpl [main] item O received
+2019-09-05 21:40:39,337 INFO com.rg.struct.StreamSamplerImpl [main] item V received
+2019-09-05 21:40:39,337 INFO com.rg.struct.StreamSamplerImpl [main] item E received
+2019-09-05 21:40:39,337 INFO com.rg.struct.StreamSamplerImpl [main] item R received
+2019-09-05 21:40:39,337 INFO com.rg.struct.StreamSamplerImpl [main] item T received
+2019-09-05 21:40:39,337 INFO com.rg.struct.StreamSamplerImpl [main] item H received
+2019-09-05 21:40:39,337 INFO com.rg.struct.StreamSamplerImpl [main] item E received
+2019-09-05 21:40:39,337 INFO com.rg.struct.StreamSamplerImpl [main] item L received
+2019-09-05 21:40:39,337 INFO com.rg.struct.StreamSamplerImpl [main] item A received
+2019-09-05 21:40:39,337 INFO com.rg.struct.StreamSamplerImpl [main] item Z received
+2019-09-05 21:40:39,338 INFO com.rg.struct.StreamSamplerImpl [main] item Y received
+2019-09-05 21:40:39,338 INFO com.rg.struct.StreamSamplerImpl [main] item D received
+2019-09-05 21:40:39,338 INFO com.rg.struct.StreamSamplerImpl [main] item O received
+2019-09-05 21:40:39,338 INFO com.rg.struct.StreamSamplerImpl [main] item G received
+2019-09-05 21:40:39,338 INFO com.rg.runner.Runner [main] Read , feeding to sampler 
+2019-09-05 21:40:39,338 INFO com.rg.runner.Runner [main] sample [R, L, G, O, W]
+2019-09-05 21:41:05,905 INFO com.rg.struct.StreamSamplerImpl [main] reservoir of size 5 initialized
+2019-09-05 21:41:05,910 INFO com.rg.runner.Runner [main] Read THEQUICKBROWNFOXJUMPSOVERTHELAZYDOG, feeding to sampler 
+2019-09-05 21:41:05,911 INFO com.rg.struct.StreamSamplerImpl [main] item T received
+2019-09-05 21:41:05,911 INFO com.rg.struct.StreamSamplerImpl [main] item H received
+2019-09-05 21:41:05,911 INFO com.rg.struct.StreamSamplerImpl [main] item E received
+2019-09-05 21:41:05,911 INFO com.rg.struct.StreamSamplerImpl [main] item Q received
+2019-09-05 21:41:05,911 INFO com.rg.struct.StreamSamplerImpl [main] item U received
+2019-09-05 21:41:05,911 INFO com.rg.struct.StreamSamplerImpl [main] item I received
+2019-09-05 21:41:05,911 INFO com.rg.struct.StreamSamplerImpl [main] item C received
+2019-09-05 21:41:05,911 INFO com.rg.struct.StreamSamplerImpl [main] item K received
+2019-09-05 21:41:05,911 INFO com.rg.struct.StreamSamplerImpl [main] item B received
+2019-09-05 21:41:05,912 INFO com.rg.struct.StreamSamplerImpl [main] item R received
+2019-09-05 21:41:05,912 INFO com.rg.struct.StreamSamplerImpl [main] item O received
+2019-09-05 21:41:05,912 INFO com.rg.struct.StreamSamplerImpl [main] item W received
+2019-09-05 21:41:05,912 INFO com.rg.struct.StreamSamplerImpl [main] item N received
+2019-09-05 21:41:05,912 INFO com.rg.struct.StreamSamplerImpl [main] item F received
+2019-09-05 21:41:05,912 INFO com.rg.struct.StreamSamplerImpl [main] item O received
+2019-09-05 21:41:05,912 INFO com.rg.struct.StreamSamplerImpl [main] item X received
+2019-09-05 21:41:05,912 INFO com.rg.struct.StreamSamplerImpl [main] item J received
+2019-09-05 21:41:05,912 INFO com.rg.struct.StreamSamplerImpl [main] item U received
+2019-09-05 21:41:05,913 INFO com.rg.struct.StreamSamplerImpl [main] item M received
+2019-09-05 21:41:05,913 INFO com.rg.struct.StreamSamplerImpl [main] item P received
+2019-09-05 21:41:05,913 INFO com.rg.struct.StreamSamplerImpl [main] item S received
+2019-09-05 21:41:05,913 INFO com.rg.struct.StreamSamplerImpl [main] item O received
+2019-09-05 21:41:05,913 INFO com.rg.struct.StreamSamplerImpl [main] item V received
+2019-09-05 21:41:05,913 INFO com.rg.struct.StreamSamplerImpl [main] item E received
+2019-09-05 21:41:05,914 INFO com.rg.struct.StreamSamplerImpl [main] item R received
+2019-09-05 21:41:05,914 INFO com.rg.struct.StreamSamplerImpl [main] item T received
+2019-09-05 21:41:05,914 INFO com.rg.struct.StreamSamplerImpl [main] item H received
+2019-09-05 21:41:05,914 INFO com.rg.struct.StreamSamplerImpl [main] item E received
+2019-09-05 21:41:05,914 INFO com.rg.struct.StreamSamplerImpl [main] item L received
+2019-09-05 21:41:05,914 INFO com.rg.struct.StreamSamplerImpl [main] item A received
+2019-09-05 21:41:05,914 INFO com.rg.struct.StreamSamplerImpl [main] item Z received
+2019-09-05 21:41:05,914 INFO com.rg.struct.StreamSamplerImpl [main] item Y received
+2019-09-05 21:41:05,914 INFO com.rg.struct.StreamSamplerImpl [main] item D received
+2019-09-05 21:41:05,914 INFO com.rg.struct.StreamSamplerImpl [main] item O received
+2019-09-05 21:41:05,915 INFO com.rg.struct.StreamSamplerImpl [main] item G received
+2019-09-05 21:41:05,915 INFO com.rg.runner.Runner [main] sample [Z, S, D, G, O]
+2019-09-05 21:45:52,170 INFO com.rg.struct.StreamSamplerImpl [main] reservoir of size 5 initialized
+2019-09-05 21:45:52,174 INFO com.rg.runner.Runner [main] Read THEQUICKBROWNFOXJUMPSOVERTHELAZYDOG, feeding to sampler 
+2019-09-05 21:45:52,175 INFO com.rg.runner.Runner [main] sample [R, N, O, K, A]
+2019-09-05 21:48:04,304 INFO com.rg.struct.StreamSamplerImpl [main] reservoir of size 5 initialized
+2019-09-05 21:48:04,308 INFO com.rg.runner.Runner [main] Read THEQUICKBROWNFOXJUMPSOVERTHELAZYDOG, feeding to sampler 
+2019-09-05 21:48:04,309 INFO com.rg.runner.Runner [main] sample [R, E, R, O, E]
+2019-09-05 21:48:14,273 INFO com.rg.struct.StreamSamplerImpl [main] reservoir of size 5 initialized
+2019-09-05 21:48:14,278 INFO com.rg.runner.Runner [main] sample []
+2019-09-05 21:54:24,133 INFO com.rg.struct.StreamSamplerImpl [main] reservoir of size 5 initialized
+2019-09-05 21:54:24,168 INFO com.rg.runner.Runner [main] Generated String 0LUZCJJry2hD4rZl2LenarQtrGaqpEIm6dEeqImOIOu7sY3bN6olZYb5zyz0te00PDFC2HFfiNkAu7SjQ2tNm7mCHxAjMCzEK4IZIh1bjyGm3AEfeA0EcalgtwZwxqHCdwJyS8WXXcOq3GRRKLMFcLZ4umHCxnkrpKQsx3gyHYiFq8Yf3AbJ1B97bsPhvQRL2WxKmjsFnqCWuOtEfEUAz9C6CREl8nK4M5y2x1lPpceHnVCP4tIRZUuA3xIQ52ju, feeding to sampler 
+2019-09-05 21:54:24,169 INFO com.rg.runner.Runner [main] sample [Z, 2, u, 0, z]
+2019-09-05 21:54:55,919 INFO com.rg.struct.StreamSamplerImpl [main] reservoir of size 5 initialized
+2019-09-05 21:54:55,934 INFO com.rg.runner.Runner [main] Generated String qk2PEUWkxKpcqyBgJuCGZjh6z0OH9oyD76uWK5ARtpFsEuPbLhkusbsBYoIZLnCJw4G9wHzuMe4pHh41ZtwRSSEtTYdYTpEa6YGA2WiWcpJJAewaNSwIJtoDGyhNK8OOLjTjAn5U37ls5Pk6wDStPV5QAz3LPLONveG7xLJIKDJXmithk4zFuZIUBwFp98QjJpSaanrF9vS49jktz99Uj69xRyah1SgHy84wt9QUYXm0O4OUmsCS1isOXpeb2Iqh, feeding to sampler 
+2019-09-05 21:54:55,935 INFO com.rg.runner.Runner [main] sample [U, S, W, J, b]
+2019-09-05 21:57:27,641 INFO com.rg.struct.StreamSamplerImpl [main] reservoir of size 5 initialized
+2019-09-05 21:57:27,646 INFO com.rg.struct.StreamSamplerImpl [main] reservoir of size 5 initialized
+2019-09-05 21:58:19,417 INFO com.rg.struct.StreamSamplerImpl [main] reservoir of size 5 initialized
+2019-09-05 21:58:19,422 INFO com.rg.struct.StreamSamplerImpl [main] reservoir of size 5 initialized
+2019-09-05 21:59:27,319 INFO com.rg.struct.StreamSamplerImpl [main] reservoir of size 5 initialized
+2019-09-05 21:59:27,324 INFO com.rg.struct.StreamSamplerImpl [main] reservoir of size 5 initialized
+2019-09-05 22:09:42,901 INFO com.rg.struct.StreamSamplerImpl [main] reservoir of size 5 initialized
+2019-09-05 22:09:42,915 INFO com.rg.runner.Runner [main] Generated String hVZzYWOHKEdDCNXu697oufB6iqrtiZgNBUn0ZQRhVtF4EwcnbTCyrulzO4Wsx4Yn4iD6My52rTnHI9ofTwyuBlPd4dcmw7qu9IgESJRDgcp9gtOL4jBsKcRfzd6J7860LIwnfptf6RDzPe6XyeEN09T8ILIabou8pVkKGmPN9kjZ45OYSkKhA4zbBH5q134lgL6unngosVhEmGtJfcxoqPNAKynEZ4pLRWxRIiYpQz6gfhBNPyg91j75aeFb9tYD 
+2019-09-05 22:09:42,916 INFO com.rg.runner.Runner [main] sample [6, P, E, g, N]
+2019-09-05 22:10:22,262 INFO com.rg.struct.StreamSamplerImpl [main] reservoir of size 5 initialized
+2019-09-05 22:10:22,277 INFO com.rg.runner.Runner [main] Generated String qZQxx8PozbW8FU0WDGbzAesKj2dc8fBIq1ckQodbchABFPlbIYUUyrUW0o7IgCcXFXhOmCm94yKilYavPaOtVQHVRLXAv65hUsG5H7p4reH5h8PlpkndqCYL29ExTSwgAmZz0j03t2XavBEEAIHx9Q1aoARpISnYE96I5QM3kCcVqyLdGrQOSIVGpHlGLjd4eHJYk8DQwoCnH2I0r0gU0d2sosj3Ha9oaos3AXIlwQ6beYTYjwJjeGNiFqQlgwND 
+2019-09-05 22:10:22,278 INFO com.rg.runner.Runner [main] sample [8, c, d, t, X]
+2019-09-05 22:10:24,964 INFO com.rg.struct.StreamSamplerImpl [main] reservoir of size 5 initialized
+2019-09-05 22:10:24,976 INFO com.rg.runner.Runner [main] Generated String BwJin5EJsGflMV7beHWXkAGGpNPJ7p8RRD4jWRBuu9gqtaT50yBDUwshSOXZ2IMu2Ur2nFQqZKJJvIEhmJf4uCtklQTePwl2iJ7BUgi1UwIXFPGvOoefIyNbYn7QDxFzSlWw1iTnin4mlVTr2h65GShQmhxf7R9uUUiJ43asX51nK9ibfxPeT5OEPECK9VC21nq6mn0hoRET7ALHSaUUoMc8RgglRS8eNSinmiC1Z6dTgSjrUHmZB3BJVjEC1xcX 
+2019-09-05 22:10:24,977 INFO com.rg.runner.Runner [main] sample [i, J, G, M, l]
+2019-09-05 22:12:17,119 INFO com.rg.struct.StreamSamplerImpl [main] reservoir of size 5 initialized
+2019-09-05 22:12:17,127 INFO com.rg.runner.Runner [main] Read THEQUICKBROWNFOXJUMPSOVERTHELAZYDOG 
+2019-09-05 22:12:17,128 INFO com.rg.runner.Runner [main] sample [R, H, B, Q, Z]

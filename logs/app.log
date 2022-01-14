@@ -1,0 +1,6 @@
+2022-01-14 20:19:06,977 INFO com.rg.struct.StreamSamplerImpl [main] reservoir of size 10 initialized
+2022-01-14 20:19:06,983 INFO com.rg.runner.Runner [main] Read THEQUICKBROWNFOXJUMPSOVERTHELAZYDOG 
+2022-01-14 20:19:06,984 INFO com.rg.runner.Runner [main] sample [A, F, V, Q, U, T, W, K, M, S]
+2022-01-14 20:19:19,264 INFO com.rg.struct.StreamSamplerImpl [main] reservoir of size 10 initialized
+2022-01-14 20:19:19,266 INFO com.rg.runner.Runner [main] Read THEQUICKBROWNFOXJUMPSOVERTHELAZYDOG 
+2022-01-14 20:19:19,267 INFO com.rg.runner.Runner [main] sample [S, A, E, G, U, I, V, E, O, O]
